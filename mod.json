@@ -1,9 +1,9 @@
 name: "md-contentpack"
 displayName: "Moredustry"
-subtitle: "DevBuild: 0.0.1"
-description: "Private Build of the Moredustry Contentpack"
+subtitle: "Release: 0.0.1"
+description: ""
 author: "CoCo Snow"
-version: "0.0.1.db"
+version: "0.0.1"
 minGameVersion: "146"
 repo: CoCo-Snow/Moredustry
 dependencies: []
